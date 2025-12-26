@@ -1,8 +1,8 @@
 # GTK3 中文教學書 》
 ## [🟥第 0 章：GTK3 是什麼？如何開始？（基礎觀念）](./GTK3-Tutorial-chap-0.md)
-## [🟥 第 1 章：建立第一個 GTK 應用程式](./GTK3-Tutorial-chap-1.md)
-# 🟥 第 2 章：GtkApplication（標準 App 架構）
-# 🟥 第 3 章：GTK 物件系統（簡化版 GObject 教學）
+## [🟥第 1 章：建立第一個 GTK 應用程式](./GTK3-Tutorial-chap-1.md)
+## [🟥第 2 章：GtkApplication（標準 App 架構）](./GTK3-Tutorial-chap-2.md)
+## [🟥 第 3 章：GTK 物件系統](./GTK3-Tutorial-chap-3.md)
 🟥 第 4 章：GTK 排版（Layout）
 🟥 第 5 章：GtkBuilder（UI XML 系統）
 🟥 第 6 章：常用元件（Widgets）教學
